@@ -1,0 +1,11 @@
+venue,batting_team,bowling_team,over,target,runs_left,balls_left,wickets_left,crr,rrr,result
+"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,8,231,159,72,7,9,13.25,0
+"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,2,231,228,108,8,1.5,12.66666667,0
+"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,20,231,45,5,2,9.704347826,54,0
+"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Royal Challengers Bangalore,13,241,103,47,5,11.34246575,13.14893617,0
+"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Royal Challengers Bangalore,10,241,130,64,7,11.89285714,12.1875,0
+"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Royal Challengers Bangalore,1,241,227,114,9,14,11.94736842,0
+"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Lucknow Super Giants,1,165,157,114,10,8,8.263157895,1
+"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Lucknow Super Giants,4,165,101,96,10,16,6.3125,1
+"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Lucknow Super Giants,6,165,58,84,10,17.83333333,4.142857143,1
+"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Lucknow Super Giants,9,165,8,66,10,17.44444444,0.7272727273,1
